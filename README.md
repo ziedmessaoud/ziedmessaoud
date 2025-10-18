@@ -1,37 +1,39 @@
 # 👋 Hi there, I'm Zied Messaoud  
 
-🎓 **Final-year Software Engineering Student** | 💻 **C# Developer** | 📱 **Flutter Enthusiast**
+🎓 **Final-year Software Engineering Student** | 💻 **C# / .NET Developer** | 📱 **Flutter & NestJS Developer**
 
 ---
 
 ### 🚀 About Me  
-I'm a passionate software engineer specializing in **.NET backend systems** and **Windows desktop applications** using **WinForms** and **DevExpress**.  
-I also enjoy building cross-platform mobile applications with **Flutter** and bringing elegant, practical solutions to real-world problems.  
+I'm a passionate software engineer specializing in **.NET backend systems**, **WinForms applications** (with **DevExpress**), and **cross-platform mobile apps** with **Flutter**.  
+Recently, I’ve been expanding my expertise into **NestJS backend development** to build modern, scalable web APIs.
 
-- 💼 Experienced in **C#, .NET Framework, .NET Core, Flutter, and Dart**
-- ⚙️ Built and maintained **desktop production apps** and **industrial control systems**
-- 🌍 Developed a **smart public lighting management platform** in Tunisia using **C# + LoRa** for IoT communication
-- 🔌 Created a **gas bottle production management system** with **real-time socket communication**
-- 🧠 Always exploring modern backend architectures, APIs, and clean code practices
+- 💼 Experienced in **C#, .NET Core/Framework, Flutter, Dart, and NestJS**
+- ⚙️ Built **desktop and industrial apps** for production and IoT management
+- 🌍 Developed a **smart public lighting management system** in Tunisia using **C# + LoRa**
+- 🔌 Created a **gas bottle production app** with **socket communication**
+- 🏨 Currently building a **Hotel Management Backend** using **NestJS + PostgreSQL**, with modular architecture, JWT authentication, and RESTful APIs
+- 🧠 Always exploring modern backend architectures, IoT integrations, and clean code principles
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### 💻 Backend & Desktop
-- C# / .NET (Core & Framework)
-- WinForms / WPF / DevExpress UI
-- Entity Framework / LINQ / SQL Server
-- RESTful APIs / ASP.NET MVC
+- **C# / .NET (Core & Framework)**
+- **WinForms / WPF / DevExpress UI**
+- **Entity Framework / LINQ / SQL Server**
+- **NestJS / Node.js / PostgreSQL**
+- **RESTful APIs / Authentication / WebSocket**
 
 #### 📱 Mobile Development
-- Flutter / Dart  
-- Firebase / REST APIs integration
+- **Flutter / Dart**
+- **Firebase / REST API Integration**
 
 #### ⚙️ Tools & Workflow
 - Git / GitHub  
 - Visual Studio / VS Code / Android Studio  
-- Postman / Docker (basic)  
+- Postman / Docker  
 - Agile & Scrum team collaboration  
 
 ---
@@ -39,23 +41,24 @@ I also enjoy building cross-platform mobile applications with **Flutter** and br
 ### 🌍 Featured Projects
 
 - 💡 **Smart Public Lighting Management System**  
-  _C# + LoRa + IoT_ — monitors and controls public lighting poles across cities.  
-  Real-time communication, centralized monitoring, and analytics dashboard.
+  _C# + LoRa + IoT_ — monitors and controls public lighting poles across Tunisia.  
+  Real-time monitoring, central control, and analytics dashboards.
 
 - 🏭 **Gas Bottle Production Management App**  
-  _WinForms + Socket Communication_ — manages production flow, status tracking, and error handling.  
+  _WinForms + Socket Communication_ — manages production flow, quality, and traceability.
+
+- 🏨 **Hotel Management Backend (NestJS)**  
+  _NestJS + MongoDB + REST APIs_ — backend for a hotel management platform.  
+  Includes role-based access, authentication, booking management, and service modules.
 
 - 📱 **Multiple Flutter Mobile Apps**  
-  Built mobile apps for task management, productivity, and real-time monitoring.
+  Cross-platform apps for productivity and real-time data visualization.
 
 ---
 
 ### 🎯 Current Goals
-- Completing my **Software Engineering degree**
-- Deepening expertise in **.NET Core backend development**
-- Learning more about **cloud architecture** (Azure & AWS)
-- Contributing more to **open-source** projects  
-
+- Finish my **Software Engineering degree**
+- Master **NestJS and cloud deployment (AWS/Azure)**
 ---
 
 ### 📫 Contact Me
@@ -65,4 +68,8 @@ I also enjoy building cross-platform mobile applications with **Flutter** and br
 
 ---
 
-⭐️ _“Code is like art — it’s meant to be both functional and elegant.”_  
+
+
+---
+
+⭐️ _“Code is like art — it’s meant to be both functional and elegant.”_
